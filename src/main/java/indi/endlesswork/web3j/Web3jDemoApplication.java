@@ -1,4 +1,4 @@
-package indi.endlesswork.web3j.web3jdemo;
+package indi.endlesswork.web3j;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

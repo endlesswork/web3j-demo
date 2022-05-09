@@ -1,4 +1,4 @@
-package indi.endlesswork.web3j.web3jdemo.trade;
+package indi.endlesswork.web3j.trade;
 
 import lombok.extern.slf4j.Slf4j;
 import org.web3j.protocol.Web3j;

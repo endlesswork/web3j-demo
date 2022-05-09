@@ -1,4 +1,4 @@
-package indi.endlesswork.web3j.web3jdemo;
+package indi.endlesswork.web3j;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
